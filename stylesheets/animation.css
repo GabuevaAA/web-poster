@@ -1,0 +1,166 @@
+.humann:hover .human1 img{
+  animation : first 3s ease-in-out;
+}
+@keyframes first {
+  0% {left: 451px;}
+  100% {left: 231px;}
+}
+.humann:hover .human2 img{
+  animation: second 6s ease-in-out;
+}
+@keyframes second {
+  0% { opacity: 0 }
+  100% { opacity: 100}
+  }
+.clockk .clock1 p{
+  animation: third 6s ease-in-out infinite;
+}
+@keyframes third {
+  0%  { top: -84px; left: 659px }
+  25% { top: -84px; left: 1201px }
+  50% { top: 327px; left: 1201px }
+  75% { top: 327px; left: 652px }
+  100% { top: -84px; left: 659px }
+}
+.clockk .clock2 p{
+  animation: forth 6s ease-in-out infinite;
+}
+@keyframes forth {
+  0%  { top: 327px; left: 1189px }
+  25% { top: 327px; left: 658px }
+  50% { top: -84px; left: 658px }
+  75% { top: -84px; left: 1189px }
+  100% { top: 327px; left: 1189px }
+}
+.bloood:hover .blood img{
+  animation: fifth 3s ease-in-out;
+}
+@keyframes fifth {
+  0% { opacity: 0 }
+  100% { opacity: 100}
+  }
+  .bloood:hover .pink img{
+    animation: six 6s ease-in-out;
+  }
+  @keyframes six {
+    0% { opacity: 0 }
+    25% {opacity: 0 }
+    100% { opacity: 100}
+  }
+  .vampire:hover .human4 img{
+    animation: seven 5s ease-in-out;
+  }
+    @keyframes seven {
+      0% { opacity: 100 }
+      100% { opacity: 0}
+ }
+   .eyess .eye1 img{
+   animation: nine 5s ease-in-out infinite;
+ }
+ @keyframes nine {
+   0% {top: 1555px; left: 691px;}
+   25% {top:1555px; left: 1368px;}
+   50% {top:1887px; left: 1368px;}
+   75% {top:1887px; left:691px;}
+   100% {top:1555px; left:691px; }
+ }
+   .eyess .eye2 img{
+   animation: ten 5s infinite;
+   }
+   @keyframes ten {
+   0% {height:70px; }
+   100% {height:170px;}
+ }
+ .eyess .eye3 img{
+ animation: eleven 5s ease-in-out infinite;
+ }
+ @keyframes eleven {
+   0% {top: 1887px; left: 1370px;}
+   25% {top:1887px; left: 691px;}
+   50% {top:1555px; left: 691px;}
+   75% {top:1555px; left:1370px;}
+   100% {top:1887px; left:1370px;}
+ }
+.lines:hover .lenta1 img{
+  animation: twelve 2s ease-in-out;
+}
+@keyframes twelve {
+  0% {left: -1702px;}
+  100% {left: -2px;}
+}
+.lines:hover .lenta3 img{
+  animation: thirteen 1s ease-in-out;
+}
+@keyframes thirteen {
+  0% {left: -1821px;}
+  100% {left: -53px;}
+}
+.lines:hover .lenta4 img{
+  animation: fourteen 2s ease-in-out;
+}
+@keyframes fourteen {
+  0% {left: -1778px;}
+  100% {left: -76px;}
+}
+.lines:hover .lenta5 img{
+  animation: fifteen 3s ease-in-out;
+}
+@keyframes fifteen {
+  0% {left: -542px;}
+  100% {left: -165px;}
+}
+.lines:hover .eyes1 img{
+  animation: sixteen 3s ease-in-out infinite;
+}
+@keyframes sixteen {
+  0% {opacity: 0;}
+  50% {opacity: 100;}
+  100% {opacity: 0;}
+}
+.lines:hover .eyes2 img{
+  animation: seventeen 5s ease-in-out infinite;
+}
+@keyframes seventeen {
+  0% {opacity: 100;}
+  50% {opacity: 0;}
+  100% {opacity: 100;}
+}
+.lines:hover .eyes3 img{
+  animation: eighteen 4s ease-in-out infinite;
+}
+@keyframes eighteen {
+  0% {opacity: 0;}
+  50% {opacity: 100;}
+  100% {opacity: 0;}
+}
+.lines:hover .eyes4 img{
+  animation: nineteen 6s ease-in-out infinite;
+}
+@keyframes nineteen {
+  0% {opacity: 100;}
+  50% {opacity: 0;}
+  100% {opacity: 100;}
+}
+.lines:hover .eyes4 img{
+  animation: twenty 3s ease-in-out infinite;
+}
+@keyframes twenty {
+  0% {opacity: 0;}
+  50% {opacity: 100;}
+  100% {opacity: 0;}
+}
+.lines:hover .eyes5 img{
+  animation: twenty 2s ease-in-out infinite;
+}
+@keyframes twenty {
+  0% {opacity: 100;}
+  50% {opacity: 0;}
+  100% {opacity: 100;}
+}
+.end:hover .fangs img{
+  animation: twentyone 3s ease-in-out infinite;
+}
+  @keyframes twentyone {
+    0% { top: 2780px; }
+    100% { top: 2965px;}
+}

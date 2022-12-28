@@ -1,0 +1,377 @@
+.container {
+ font-family: "arsenal"
+}
+.blocks {
+
+  background: black;
+}
+.block1 {
+  background: #00FFE0;
+}
+.block2 {
+  background: #FF005C;
+}
+.block4 {
+  background: #00FFE0;
+}
+.block6 {
+  background: #FF005C;
+}
+.block7 {
+  background: #00FFE0;
+}
+.footer {
+  background-color: #FF005C;
+}
+.humann{
+  width: 670px;
+  height: 930px;
+  margin-top: -670px;
+}
+.text1 {
+  width: 540px;
+  height: 137px;
+  background: black;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.text1 p {
+ color: white;
+ font-size: 55px;
+ padding-top: 8px;
+ padding-left: 17px;
+}
+.mirror {
+  width: 250px;
+  height: 432px;
+  background: #C7C6C6;
+  border: 15px solid white;
+  margin-top: 62px;
+  margin-left: 86px;
+}
+.human2 img{
+  position: absolute;
+  left: 116px;
+  top: 277px;
+  width: 179px;
+  height: 447px;
+}
+.human1 img{
+  position: absolute;
+  left: 231px;
+  top: 329px;
+  width: 261px;
+  height: 601px;
+}
+.text2 {
+  width: 705px;
+  height: 84px;
+  background: black;
+  margin-top: 836px;
+  margin-left: 10px;
+}
+.text2 p {
+ color: white;
+ font-size: 55px;
+ padding-top: 11px;
+ padding-left: 17px;
+}
+.clock1 p{
+  position: absolute;
+  left: 659px;
+  top: -84px;
+  font-size: 580px;
+  color: white;
+}
+.clock2 p{
+  position: absolute;
+  left: 1189px;
+  top: 327px;
+  font-size: 580px;
+  transform: scaleX(-1);
+  color: white;
+}
+.clock3 img{
+  position: absolute;
+  left: 799px;
+  top: 36px;
+  width: 745px;
+  height: 764px;
+}
+.strelka1 img{
+  position: absolute;
+  left: 899px;
+  top: 79px;
+  width: 534px;
+  height: 325px;
+}
+.strelka2 img{
+  position: absolute;
+  left: 1180px;
+  top: 225px;
+  width: 326px;
+  height: 321px;
+}
+.text3 {
+  width: 595px;
+  height: 145px;
+  background: white;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.text3 p {
+ color: black;
+ font-size: 55px;
+ padding-top: 11px;
+ padding-left: 17px;
+}
+.bloood{
+  height: 1240px;
+  width: 674px;
+  margin-top: -156px;
+}
+.pink img{
+  position: absolute;
+  left: 124px;
+  top: 1236px;
+  width: 438px;
+  height: 821px;
+}
+.blood img {
+ position: absolute;
+ left: 220px;
+ top: 1173px;
+ width: 229px;
+ height: 80px;
+}
+.text4 {
+  width: 476px;
+  height: 173px;
+  background: black;
+  margin-top: 437px;
+  margin-left: 520px;
+}
+.text4 p {
+  color: white;
+  font-size: 55px;
+  padding-top: 27px;
+  padding-left: 18px;
+}
+.vampire{
+  height: 620px;
+  width: 1011px;
+  margin-top: -464px;
+}
+.mirror2 {
+  width: 224px;
+  height: 363px;
+  background: black;
+  border: 15px solid #FF005C;
+  margin-top: -696px;
+  margin-left: 143px;
+ }
+.face img {
+  position: absolute;
+  left: 857px;
+  top: 1153px;
+  width: 108px;
+  height: 98px;
+ }
+.human3 img{
+  position: absolute;
+  left: 944px;
+  top: 1104px;
+  width: 184px;
+  height: 446px;
+ }
+ .human4 img{
+   position: absolute;
+   left: 842px;
+   top: 1020px;
+   width: 137px;
+   height: 446px;
+ }
+.text5 {
+  width: 811px;
+  height: 94px;
+  background: black;
+  margin-top: 516px;
+  margin-left: 10px;
+ }
+.text5 p{
+  color: white;
+  font-size: 55px;
+  padding-top: 16px;
+  padding-left: 18px;
+ }
+ .eyess{
+   height: 620px;
+   width: 1011px;
+   margin-top: -610px;
+ }
+.eye1 img{
+  position: absolute;
+  left: 691px;
+  top: 1555px;
+  width: 305px;
+  height: 170px;
+ }
+.eye2 img{
+  position: absolute;
+    left: 1021px;
+    top: 1725px;
+    width: 305px;
+    height: 170px;
+ }
+.eye3 img{
+  position: absolute;
+  left: 1263px;
+  top: 1887px;
+  width: 305px;
+  height: 170px;
+ }
+ .lines{
+   height: 620px;
+   width: 1685px;
+   margin-top: 0px;
+ }
+.lenta1 img{
+  position: absolute;
+  left: -2px;
+  top: 2201px;
+  width: 1687px;
+  height: 451px;
+ }
+.lenta2 img{
+  position: absolute;
+  left: 153px;
+  top: 2099px;
+  width: 1446px;
+  height: 761px;
+ }
+.lenta3 img{
+  position: absolute;
+  left: -53px;
+  top: 1958px;
+  width: 1739px;
+  height: 748px;
+ }
+.lenta4 img{
+  position: absolute;
+  left: -76px;
+  top: 2150px;
+  width: 1761px;
+  height: 748px;
+ }
+.lenta5 img{
+  position: absolute;
+  left: -165px;
+  top: 2178px;
+  width: 485px;
+  height: 748px;
+ }
+ .lenta6 img{
+   position: absolute;
+   left: 1001px;
+   top: 2141px;
+   width: 685px;
+   height: 748px;
+}
+.eyes1 img{
+  position: absolute;
+  left: 297px;
+  top: 2174px;
+  width: 145px;
+  height: 83px;
+ }
+.eyes2 img{
+  position: absolute;
+  left: 744px;
+  top: 2188px;
+  width: 311px;
+  height: 57px;
+ }
+.eyes3 img{
+  position: absolute;
+  left: 373px;
+  top: 2475px;
+  width: 200px;
+  height: 60px;
+ }
+  .eyes4 img{
+    position: absolute;
+    left: 970px;
+    top: 2373px;
+    width: 150px;
+    height: 60px;
+  }
+    .eyes5 img{
+      position: absolute;
+      left: 1388px;
+      top: 2594px;
+      width: 263px;
+      height: 98px;
+  }
+    .text6 {
+      width: 319px;
+      height: 94px;
+      background: black;
+      margin-top: -104px;
+      margin-left: 603px;
+  }
+    .text6 p{
+      color: white;
+      font-size: 55px;
+      padding-top: 16px;
+      padding-left: 18px;
+  }
+  .end{
+    height: 620px;
+    width: 1685px;
+    margin-top: 0px;
+  }
+    .lips2 img{
+      position: absolute;
+      left: 490px;
+      top: 2928px;
+      width: 681px;
+      height: 260px;
+    }
+    .fangs img{
+      position: absolute;
+      left: 480px;
+      top: 2780px;
+      width: 681px;
+      height: 260px;
+    }
+    .lips1 img{
+      position: absolute;
+      left: 490px;
+      top: 2826px;
+      width: 681px;
+      height: 260px;
+    }
+    .flag img{
+    position: absolute;
+    right: 29px;
+    top: 3230px;
+    width: 624px;
+    height: 128px;
+    }
+.logo img {
+  position: absolute;
+  right: 29px;
+  top: 3586px;
+  width: 287px;
+  height: 128px;
+}
+.name p{
+  color: black;
+  font-size: 55px;
+  padding-top: 8px;
+  padding-left: 17px;
+}
+.name {
+  margin-top: -134px;
+  margin-left: -340px;
+}
