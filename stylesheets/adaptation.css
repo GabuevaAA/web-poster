@@ -1,0 +1,469 @@
+/*______________________1920_______________*/
+@media screen and (min-width: 1801px) and (max-width: 1920px) {
+  .container {
+    grid-template-rows: repeat(12, 310px);
+  }
+}
+/*______________________1440_______________*/
+@media screen and (min-width: 1399px) and (max-width: 1440px) {
+  .container {
+    grid-template-rows: repeat(12, 300px);
+  }
+}
+.mirror {
+  margin-top: 45px;
+    margin-left: 86px;
+}
+.human2 img {
+  top: 268px;
+  width: 170px;
+  height: 447px;
+}
+.human1 img {
+  top: 332px;
+  width: 235px;
+  height: 568px;
+}
+@keyframes third {
+  0%  { top: -84px; left: 659px }
+  25% { top: -84px; left: 1193px }
+  50% { top: 327px; left: 1193px }
+  75% { top: 327px; left: 652px }
+  100% { top: -84px; left: 659px }
+}
+.text2 {
+  margin-top: 821px;
+  height: 68px;
+}
+.text2 p {
+ padding-top: 3px;
+ padding-left: 17px;
+}
+.blood img{
+  top:1143px;
+  left:208px;
+}
+.pink img{
+  top:1204px;
+  left:113px;
+}
+.human4 img {
+    top: 976px;
+}
+.face img {
+    top: 1114px;
+}
+.human3 img {
+    top: 1055px;
+}
+.mirror2 {
+    margin-top: -691px;
+}
+.text4 {
+    margin-top: 417px;
+    margin-left: 523px;
+}
+.eye1 img {
+    top: 1507px;
+}
+.eye2 img {
+    top: 1656px;
+}
+.eye3 img {
+    top: 1806px;
+}
+.text5 {
+    margin-top: 494px;
+}
+ @keyframes nine {
+   0% {top: 1507px; left: 691px;}
+   25% {top:1507px; left: 1368px;}
+   50% {top:1806px; left: 1368px;}
+   75% {top:1806px; left:691px;}
+   100% {top:1507px; left:691px;}
+}
+@keyframes eleven {
+  0% {top: 1806px; left: 1370px;}
+  25% {top:1806px; left: 691px;}
+  50% {top:1507px; left: 691px;}
+  75% {top:1507px; left:1370px;}
+  100% {top:1806px; left:1370px;}
+}
+.lines {
+  height: 600px;
+}
+.lenta2 img {
+  left: 22px;
+  top: 2029px;
+  height: 740px;
+}
+.lenta6 img {
+  top: 2051px;
+}
+.lenta3 img {
+  top: 1887px;
+}
+.lenta4 img {
+  top: 2125px;
+}
+.lenta5 img {
+  top: 2153px;
+}
+.eyes3 img {
+  left: 294px;
+  top: 2469px;
+  width: 164px;
+}
+.eyes2 img {
+  left: 662px;
+  top: 2126px;
+}
+.eyes1 img {
+  left: 230px;
+  top: 2148px;
+  }
+  .eyes4 img {
+  left: 1246px;
+  top: 2248px;
+}
+.lips1 img {
+  top: 2738px;
+}
+.lips2 img {
+  top: 2841px;
+}
+  .fangs img {
+  top: 2693px;
+}
+@keyframes twentyone {
+  0% { top: 2693px; }
+  100% { top: 2877px;}
+}
+.flag img {
+  margin-left: auto;
+  margin-right: auto;
+  top: 3151px;
+}
+.logo img {
+  left: -232px;
+  top: 3461px;
+}
+}
+/*______________________1024_______________*/
+@media screen and (min-width: 1020px) and (max-width: 1024px) {
+  .container {
+    grid-template-rows: repeat(12, 290px);
+  }
+}
+.human2 img {
+  top: 279px;
+  width: 159px;
+  height: 445px;
+}
+.human1 img {
+  top: 330px;
+  width: 235px;
+  height: 540px;
+}
+.clock2 p {
+    left: 1264px;
+    top: 354px;
+    font-size: 500px;
+}
+.clock1 p {
+    left: 659px;
+    top: -18px;
+    font-size: 500px;
+}
+@keyframes third {
+  0%  { top: -18px; left: 673px }
+  25% { top: -18px; left: 1256px }
+  50% { top: 354px; left: 1256px }
+  75% { top: 354px; left: 673px }
+  100% { top: -18px; left: 673px }
+}
+@keyframes forth {
+  0%  { top: 354px; left: 1264px }
+  25% { top: 354px; left: 673px }
+  50% { top: -18px; left: 673px }
+  75% { top: -18px; left: 1264px }
+  100% { top: 354px; left: 1264px }
+}
+.clock3 img {
+  left: 846px;
+  top: 29px;
+  width: 678px;
+}
+.strelka2 img {
+  top: 227px;
+  width: 300px;
+}
+.strelka1 img {
+  left: 914px;
+  top: 123px;
+  width: 534px;
+}
+.text2 {
+  margin-top: 792px;
+  height: 68px;
+}
+.blood img{
+  top:1075px;
+}
+.pink img{
+  top:1138px;
+}
+.human4 img {
+    top: 939px;
+}
+.face img {
+    top: 1076px;
+}
+.human3 img {
+    top: 1023px;
+    height: 427px;
+}
+.mirror2 {
+    margin-top: -679px;
+}
+.text4 {
+    margin-top: 398px;
+    margin-left: 524px;
+}
+.eye1 img {
+    top: 1451px;
+    width: 228px;
+    left:710px;
+}
+.eye2 img {
+    top: 1614px;
+}
+.eye3 img {
+    top: 1784px;
+    left: 1408px;
+    width: 228px;
+}
+.text5 {
+    margin-top: 487px;
+    height: 82px;
+}
+ @keyframes nine {
+   0% {top: 1451px; left: 710px;}
+   25% {top:1451px; left: 1408px;}
+   50% {top:1784px; left: 1408px;}
+   75% {top:1784px; left:710px;}
+   100% {top:1451px; left:710px; }
+}
+@keyframes eleven {
+  0% {top: 1784px; left: 1408px;}
+  25% {top:1784px; left: 710px;}
+  50% {top:1451px; left: 710px;}
+  75% {top:1451px; left:1408px;}
+  100% {top:1784px; left:1408px;}
+}
+.lines {
+  height: 600px;
+}
+.lenta1 img {
+ top: 2099px;
+}
+.lenta2 img {
+  left: -22px;
+  top: 1963px;
+  height: 712px;
+}
+.lenta6 img {
+  top: 1961px;
+}
+.lenta3 img {
+  top: 1820px;
+}
+.lenta4 img {
+  top: 2035px;
+}
+.lenta5 img {
+  top: 2062px;
+}
+.eyes3 img {
+  left: 276px;
+  top: 2379px;
+}
+.eyes2 img {
+  top: 2062px;
+}
+.eyes1 img {
+  left: 170px;
+  top: 2050px;
+  }
+  .eyes4 img {
+    left: 1278px;
+    top: 2163px;
+}
+.eyes5 img {
+  left: 1346px;
+  top: 2497px;
+}
+.text6 {
+  margin-top: -123px;
+}
+.lips1 img {
+  top: 2629px;
+}
+.lips2 img {
+  top: 2731px;
+}
+  .fangs img {
+  top: 2583px;
+}
+@keyframes twentyone {
+  0% { top: 2583px; }
+  100% { top: 2764px;}
+}
+.flag img {
+  margin-left: auto;
+  margin-right: auto;
+  top: 3036px;
+}
+.logo img {
+  left: -653px;
+  top: 3343px;
+}
+
+
+/*______________________720x1280_______________*/
+@media screen and (min-width: 700px) and (max-width: 720px) {
+  .container {
+    grid-template-rows: repeat(12, 280px);
+  }
+}
+.human2 img {
+  top: 267px;
+  width: 175px;
+  height: 441px;
+}
+.human1 img {
+  top: 330px;
+  width: 264px;
+  height: 601px;
+}
+.strelka2 img {
+  top: 270px;
+}
+.text2 {
+  margin-top: 851px;
+}
+.blood img{
+  top:1125px;
+}
+.pink img{
+  top:1188px;
+}
+.human4 img {
+    top: 1038px;
+}
+.face img {
+    top: 1176px;
+}
+.human3 img {
+  top: 1123px;
+}
+.text4 {
+  margin-top: 437px;
+  margin-left: 524px;
+}
+.eye1 img {
+    top: 1553px;
+}
+.eye2 img {
+    top: 1702px;
+}
+.eye3 img {
+    top: 1869px;
+}
+.text5 {
+    margin-top: 526px;
+    height: 82px;
+}
+ @keyframes nine {
+   0% {top: 1553px; left: 710px;}
+   25% {top:1553px; left: 1408px;}
+   50% {top:1869px; left: 1408px;}
+   75% {top:1869px; left:710px;}
+   100% {top:1553px; left:710px; }
+}
+@keyframes eleven {
+  0% {top: 1869px; left: 1408px;}
+  25% {top:1869px; left: 710px;}
+  50% {top:1553px; left: 710px;}
+  75% {top:1553px; left:1408px;}
+  100% {top:1869px; left:1408px;}
+}
+.lines {
+  height: 600px;
+}
+.lenta1 img {
+ top: 2154px;
+}
+.lenta2 img {
+  left: 18px;
+  top: 2098px;
+  height: 763px;
+}
+.lenta6 img {
+  top: 2142px;
+}
+.lenta3 img {
+  top: 2219px;
+}
+.lenta4 img {
+  top: 2009px;
+}
+.lenta5 img {
+  top: 2037px;
+}
+.eyes3 img {
+  left: 14px;
+  top: 2584px;
+}
+.eyes2 img {
+  top: 2366px;
+  left: 1120px;
+}
+.eyes1 img {
+  left: 438px;
+  top: 2493px;
+  }
+  .eyes4 img {
+    left: 1064px;
+    top: 2185px;
+}
+.eyes5 img {
+  left: 1371px;
+    top: 2615px;
+}
+.text6 {
+  margin-top: -84px;
+}
+.lips1 img {
+  top: 2820px;
+}
+.lips2 img {
+  top: 2922px;
+}
+  .fangs img {
+  top: 2779px;
+}
+@keyframes twentyone {
+  0% { top: 2779px; }
+  100% { top: 2961px;}
+}
+.flag img{
+  margin-left: auto;
+  margin-right: auto;
+  top: 3249px;
+}
+.logo img {
+  left: 1391px;
+  top: 3585px;
+}
+}

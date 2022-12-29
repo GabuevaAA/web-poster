@@ -48,7 +48,7 @@
     100% { opacity: 100}
   }
   .vampire:hover .human4 img{
-    animation: seven 5s ease-in-out;
+    animation: seven 3s ease-in-out;
   }
     @keyframes seven {
       0% { opacity: 100 }

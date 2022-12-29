@@ -353,22 +353,22 @@
     }
     .flag img{
     position: absolute;
-    right: 29px;
-    top: 3230px;
+    right: 535px;
+    top: 3246px;
     width: 624px;
     height: 128px;
     }
 .logo img {
   position: absolute;
-  right: 29px;
+  right: 3px;
   top: 3586px;
   width: 287px;
   height: 128px;
 }
 .name p{
   color: black;
-  font-size: 55px;
-  padding-top: 8px;
+  font-size: 36px;
+  padding-top: 46px;
   padding-left: 17px;
 }
 .name {
